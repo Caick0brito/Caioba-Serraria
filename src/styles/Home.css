@@ -1,0 +1,13 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#enfase {
+    font-size: large;
+}
+
+.enfase {
+    font-size: large;
+    color: red;
+}
