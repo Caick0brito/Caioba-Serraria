@@ -33,3 +33,26 @@ p {
     height: 250px;
     object-fit: contain;
 }
+
+#beneficios {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100vw;
+    align-items: center;
+}
+
+#beneficios-lista {
+    display: block;
+    unicode-bidi: isolate;
+    font-style: italic;
+    display: list-item;
+    font-size: smaller;
+}
+
+#ul-bene {}
+
+#imagem {
+    display: flex;
+    width: 200px;
+}

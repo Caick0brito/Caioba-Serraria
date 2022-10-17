@@ -10,14 +10,14 @@ a {
     text-decoration: none;
 }
 
-li {
+.topodapagina {
     font-family: 'Roboto', sans-serif;
     padding-left: 15px;
     transition: 0.25s;
     font-size: 30px;
 }
 
-li:hover {
+.topodapagina:hover {
     color: orange;
     text-decoration: underline
 }
