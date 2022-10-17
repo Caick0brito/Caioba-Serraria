@@ -13,12 +13,11 @@
     border-width: 3px;
     color: orange;
     border-color: orange;
-    zoom: 120%;
+    scale: 115%;
 
 }
 
 .produtos-imagem {
-    transition: 0;
     margin: 10px;
     height: 180px;
     width: 180px;
