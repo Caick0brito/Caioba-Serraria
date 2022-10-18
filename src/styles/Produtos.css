@@ -9,6 +9,8 @@
     transition: 0.25s;
 }
 
+
+
 .Produto-individual:hover {
     border-width: 3px;
     color: orange;
